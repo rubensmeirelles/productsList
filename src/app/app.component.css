@@ -1,0 +1,20 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+.menu{
+  position: fixed;
+  z-index: 999;
+}
+
+mat-sidenav{
+  width: 400px;
+}
+
+mat-sidenav-content{
+  height: 100vh;
+}
+
+mat-sidenav-container{
+  height: 100vh;
+}
